@@ -29,15 +29,14 @@
     <link id="u-page-google-font" rel="stylesheet" href="./css(1)">
     <meta name="theme-color" content="#478ac9">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
  
   </head>
     <body class="u-body u-xl-mode" data-lang="pt-br">
       <section class="u-align-center u-clearfix u-container-align-center u-image u-shading u-section-1" id="sec-fde7" data-image-width="1920" data-image-height="2813">
-        <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
-        <h2 class="u-align-center u-text u-text-default u-text-palette-2-base u-text-1"> Sistemas Universal<br>
+        <div class="u-clearfix u-sheet u-valign-middle u-sheet-1"> <div class="unidigital"><img src="/statusiurd/logo/unidigital.png" alt="" style=" width:300px; max-width:auto; margin:20px;  "   ></div>
+        <h2 class="u-align-center u-text u-text-default u-text-palette-2-base u-text-1">  <br> 
         </h2>
         <p class="u-align-center u-text u-text-body-color u-text-2"> Confira abaixo o status das aplicações Universal</p>
         <div class="u-expanded-width u-list u-list-1">
@@ -48,9 +47,7 @@
                 <div alt="" class="u-border-5 u-border-palette-2-base u-image u-image-circle u-image-1" data-image-width="309" data-image-height="309"></div>
                 <h5 class="u-align-center u-text u-text-3">RDS</h5><img  style="width:170px;position:absolute;  left:1px;"  src="/statusiurd/logo/<?php echo $rds; ?>.png"> 
                 <div class="u-align-left u-social-icons u-spacing-13 u-social-icons-1">  </h5>
-                  
-                  </a>
-                  
+                 </a>
                 </div>
               </div>
             </div>
@@ -59,9 +56,7 @@
                 <div alt="" class="u-border-5 u-border-palette-2-base u-image u-image-circle u-image-2" data-image-width="309" data-image-height="309"></div>
                 <h5 class="u-align-center u-text u-text-6"> Outlook</h5><img  style="width:170px;position:absolute;  left:1px;"  src="/statusiurd/logo/<?php echo $email; ?>.png">
                 <div class="u-align-left u-social-icons u-spacing-13 u-social-icons-2">
-                  
                   </a>
-                  
                   </a>
                 </div>
               </div>
@@ -127,7 +122,6 @@
       </div>
     </section>
     <a></a><p>
-
     </p> 
     <section class="faq"><h5 class="faq2"> <br></h5>
     <div class="accordion" id="accordionExample"  ><h2 class="faq2"> Perguntas frequentes<br></h2>
@@ -180,6 +174,5 @@
         <span></span>
       </a>
     </section>
-
-  
-<style>.u-disable-duration * {transition-duration: 0s !important;}</style></body></html>
+  </body>
+</html>
