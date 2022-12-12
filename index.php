@@ -20,9 +20,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="cache-control" content="no-cache">
     <title>Status | Universal</title>
-    <link rel="stylesheet" href="./nicepage.css" media="screen">
-    <link rel="stylesheet" href="./nicepage-site.css" media="screen">
-    <link rel="stylesheet" href="./Page-2.css" media="screen">
+    <link rel="stylesheet" href="./style3.css" media="screen">s
+    <link rel="stylesheet" href="./style2.css" media="screen">
+    <link rel="stylesheet" href="./style.css" media="screen">
     <script class="u-script" type="text/javascript" src="./jquery-3.5.1.min.js.baixados" defer=""></script>
     <script class="u-script" type="text/javascript" src="./nicepage.js.baixados" defer=""></script>
     <link id="u-theme-google-font" rel="stylesheet" href="./css">
