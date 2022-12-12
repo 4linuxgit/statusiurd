@@ -5,6 +5,9 @@
 
 body{
   background-image:  url("/statusiurd/logo/bcg.png") ;
+   background-position: 50% 50%;
+  background-size: 2500pt;
+  background-repeat: no-repeat;
 }
 
 .inform{
